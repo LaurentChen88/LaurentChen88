@@ -8,7 +8,7 @@
 💻 Développement Web Full Stack • Gestion de bases de données
 
 
-## 🔧 Stack principale
+## 🔧 Technologies et outils
 
 ### Web
 <p align="left">
