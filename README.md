@@ -45,7 +45,7 @@
 
 ## 📫 Contact
 <p align="left">
-  <a href="mailto:laurent.chen.pro@gmail.com" title="Email" style="margin-right: 30px;">
+  <a href="mailto:laurent.chen.pro@gmail.com" title="Email">
     <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/laurent-chen8/" target="_blank" title="LinkedIn">
