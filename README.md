@@ -40,7 +40,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" title="Streamlit" alt="Streamlit" width="90" height="40"/>
-  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" title="Shiny (via RStudio)" alt="Shiny" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Shiny_hex_logo.svg" title="Shiny" alt="Shiny" width="40" height="40"/>
 </p>
 
 
