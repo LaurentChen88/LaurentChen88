@@ -44,6 +44,11 @@
 
 
 ## 📫 Contact
-
-- ✉️ Email : _[laurent.chen.pro@gmail.com]_  
-- 💼 LinkedIn : _[linkedin.com/in/laurent-chen8](https://linkedin.com/in/laurent-chen8)_
+<p align="left">
+  <a href="mailto:laurent.chen.pro@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/laurent-chen8/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
