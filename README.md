@@ -1,7 +1,7 @@
 # Salut, je suis Laurent CHEN 👋
 
 
-## À propos
+## 🔍 À propos
 
 🎓 En fin de 3e année de BUT Science des Données (ex-STID) à l'IUT Paris – Rives de Seine  
 💼 Alternant en R&D chez Socio Data Management  
