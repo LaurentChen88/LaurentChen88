@@ -26,7 +26,7 @@
 ### Bases de données
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL (MySQL/SQL Server)" alt="SQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title="SQL Server" alt="SQL Server" width="40" height="40"/>
 </p>
 
 ### Versioning
