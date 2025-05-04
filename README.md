@@ -48,6 +48,7 @@
   <a href="mailto:laurent.chen.pro@gmail.com" title="Email">
     <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="40" height="40"/>
   </a>
+  <br/>
   <a href="https://www.linkedin.com/in/laurent-chen8/" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
