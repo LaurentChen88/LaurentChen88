@@ -26,7 +26,7 @@
 ### Bases de données
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title="SQL Server" alt="SQL Server" width="70" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title="SQL Server" alt="SQL Server" width="80" height="40"/>
 </p>
 
 ### Versioning
@@ -40,7 +40,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" title="Streamlit" alt="Streamlit" width="90" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/RStudio_Logo.png" title="Shiny (via RStudio)" alt="Shiny" width="40" height="40"/>
+  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" title="Shiny (via RStudio)" alt="Shiny" width="80" height="40"/>
 </p>
 
 
