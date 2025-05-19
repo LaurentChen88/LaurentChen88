@@ -5,7 +5,7 @@
 
 🎓 En fin de 3e année de BUT Science des Données (ex-STID) à l'IUT Paris – Rives de Seine  
 💼 Alternant en R&D chez Socio Data Management  
-💻 Développement Web Full Stack • Gestion de bases de données
+💻 Développement Web Full Stack
 
 
 ## 🔧 Technologies et outils
