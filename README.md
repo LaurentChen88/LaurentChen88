@@ -3,9 +3,9 @@
 
 ## 🔍 À propos
 
-🎓 En fin de 3e année de BUT Science des Données (ex-STID) à l'IUT Paris – Rives de Seine  
+🎓 Étudiant à EPITA : École d’ingénieurs en informatique
 💼 Alternant en R&D chez Socio Data Management  
-💻 Développement Web Full Stack
+💻 Spécialité dev
 
 
 ## 🔧 Technologies et outils
