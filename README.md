@@ -3,7 +3,7 @@
 
 ## 🔍 À propos
 
-🎓 Étudiant à EPITA : École d’ingénieurs en informatique
+🎓 Étudiant à EPITA : École d’ingénieurs en informatique                 
 💼 Alternant en R&D chez Socio Data Management  
 💻 Spécialité dev
 
